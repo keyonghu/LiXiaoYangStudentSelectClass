@@ -16,30 +16,30 @@
     	<form method="post" action="/EduSystem/servlet/LoginServlet" name="form1">
 		<table width="280" align="center">
 		  <tr>
-		    <td><div align="right"><font size="-1" color="#556B2F">Éí·Ý:</font></div></td>
+		    <td><div align="right"><font size="-1" color="#556B2F">èº«ä»½:</font></div></td>
 		    <td><select name="type" style="width:152">
-		        <option value="student" selected>Ñ§Éú</option>
-		        <option value="teacher">½ÌÊ¦</option>
+		        <option value="student" selected>å­¦ç”Ÿ</option>
+		        <option value="teacher">æ•™å¸ˆ</option>
 		      </select></td>
 		  </tr>
 		  <tr>
-		    <td><div align="right"><font size="-1" color="#556B2F">ÕËºÅ:</font></div></td>
+		    <td><div align="right"><font size="-1" color="#556B2F">è´¦å·:</font></div></td>
 		    <td><input type="text" name="account"></td>
 		  </tr>
 		  <tr>
-		    <td><div align="right"><font size="-1" color="#556B2F">ÃÜÂë:</font></div></td>
+		    <td><div align="right"><font size="-1" color="#556B2F">å¯†ç :</font></div></td>
 		    <td><input type="password" name="password" size=21></td>
 		  </tr>
-		  <tr><td><div align="right"><font size="-1" color="#556B2F">ÑéÖ¤Âë:</font></div></td>
-		  	  <td><input name="code" size=12> <a href="#" onclick="getCode()"><font size="-1">¿´²»Çå£¬»»Ò»ÕÅ</font></a></td>
+		  <tr><td><div align="right"><font size="-1" color="#556B2F">éªŒè¯ç :</font></div></td>
+		  	  <td><input name="code" size=12> <a href="#" onclick="getCode()"><font size="-1">çœ‹ä¸æ¸…ï¼Œæ¢ä¸€å¼ </font></a></td>
 		  </tr>
     	  <tr><td colspan="2"><div align="center">
     	  	  <img name="codeimg" src="/EduSystem/res/code/code.jsp"></div></td>
     	  </tr>
 		  <tr>
 		    <td colspan="2"><div align="center">
-		        <input type="submit" name="submit" value="µÇÂ¼">
-		        <input type="reset" name="reset" value="ÖØÖÃ">      
+		        <input type="submit" name="submit" value="ç™»å½•">
+		        <input type="reset" name="reset" value="é‡ç½®">      
 		          </div></td>
 		  </tr>
 		  <tr>
@@ -53,6 +53,6 @@
     <td height="10%" colspan="2"><img src="/EduSystem/res/images/part03.jpg" width="1440" height="36"></td>
   </tr>
 </table>
-	<p align="center"><font size="-1" color="#556B2F">COPYRIGHT 2000-2010 BY Á÷éä ALL RIGHTS RESERVED</font></p>
+	<p align="center"><font size="-1" color="#556B2F">COPYRIGHT 2020 BY æŽæ™“é˜³ ALL RIGHTS RESERVED</font></p>
   </body>
 </html>
