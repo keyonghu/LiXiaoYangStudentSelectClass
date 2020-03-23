@@ -3,6 +3,6 @@
 
 <html>
   <body bgcolor="#cdf2e3">
-	<center> ��ӭ����GoodEdu�������ϵͳ��</center>
+	<center> 欢迎来到青岛理工大学教务管理系统！</center>
   </body>
 </html>
